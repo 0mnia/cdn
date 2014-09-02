@@ -1,0 +1,70 @@
+@font-face {
+	font-family: om;
+	src:url(../fonts/om.eot?u0ykbh);
+	src:url(../fonts/om.eot?#iefixu0ykbh) format('embedded-opentype'),
+		url(../fonts/om.woff?u0ykbh) format('woff'),
+		url(../fonts/om.ttf?u0ykbh) format('truetype'),
+		url(../fonts/om.svg?u0ykbh#om) format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="om-"], [class*=" om-"] {
+	font-family: 'om';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.om-callout:before {
+	content: "\e600";
+}
+.om-map-marker:before {
+	content: "\e601";
+}
+.om-rss:before {
+	content: "\e602";
+}
+.om-facebook:before {
+	content: "\e603";
+}
+.om-folder:before {
+	content: "\e604";
+}
+.om-search:before {
+	content: "\e605";
+}
+.om-phone:before {
+	content: "\e606";
+}
+.om-vimeo:before {
+	content: "\e607";
+}
+.om-linkedin:before {
+	content: "\e608";
+}
+.om-tumblr:before {
+	content: "\e609";
+}
+.om-user:before {
+	content: "\e60a";
+}
+.om-gplus:before {
+	content: "\e60b";
+}
+.om-twitter:before {
+	content: "\e60c";
+}
+.om-clock:before {
+	content: "\e60d";
+}
+.om-youtube:before {
+	content: "\e60e";
+}
