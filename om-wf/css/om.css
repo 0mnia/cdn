@@ -6,8 +6,8 @@ src: url(data:application/x-font-ttf;charset=utf-8;base64,AAEAAAALAIAAAwAwT1MvMg
 font-weight: normal;
 font-style: normal;
 }
-
-[class^="om-"], [class*=" om-"] {
+*[class^="om-"]:before,
+*[class*=" om-"]:before{
 font-family: om;
 speak: none;
 font-style: normal;
@@ -18,7 +18,6 @@ line-height: 1;
 -webkit-font-smoothing: antialiased;
 -moz-osx-font-smoothing: grayscale;
 }
-
 .om-callout:before {
 content: "\e600";
 }
