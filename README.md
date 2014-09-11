@@ -1,6 +1,9 @@
-cdn
-===
+Webfont
+=======
 
-[webfont index](https://0mnia.github.io/cdn/om-wf/)
-[webfont](https://0mnia.github.io/cdn/om.css)
+[preview](https://0mnia.github.io/cdn/om-wf/)
 
+[css](https://0mnia.github.io/cdn/om.css)
+
+Other
+=====
