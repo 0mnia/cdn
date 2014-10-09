@@ -38,8 +38,8 @@
 .om-map-marker:before{content:"\e60d";}
 .om-menu:before{content:"\e60e";}
 .om-phone:before{content:"\e60f";}
-.om-rate:before{content:"\e610";}
-.om-rate-blank:before{content:"\e611";}
+.om-star:before{content:"\e610";}
+.om-star-blank:before{content:"\e611";}
 .om-rss:before{content:"\e612";}
 .om-search:before{content:"\e613";}
 .om-tag:before{content:"\e614";}
